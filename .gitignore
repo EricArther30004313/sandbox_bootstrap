@@ -1,2 +1,2 @@
 .DS_Store
-npm run build
+node_modules/
